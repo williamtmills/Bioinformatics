@@ -15,7 +15,7 @@ book:
     image: https://trevorfrench.github.io/R-for-Data-Analysis/images/wide-cover.png
   twitter-card:
     image: https://trevorfrench.github.io/R-for-Data-Analysis/images/wide-cover.png
-  site-url: https://trevorfrench.github.io/R-for-Data-Analysis/
+  site-url: https://github.com/williamtmills/Bioinformatics/
   chapters:
     - part: index.qmd
       chapters:
