@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 book:
-  title: "R for Data Analysis"
-  author: "Trevor French"
-  date: "11/13/2022"
+  title: "Bioinformatics"
+  author: "William Mills"
+  date: "Pending"
   cover-image: cover.png
-  repo-url: https://github.com/TrevorFrench/R-for-Data-Analysis
+  repo-url: https://github.com/williamtmills/Bioinformatics
   repo-actions: [edit]
   downloads: [pdf]
   sharing: [twitter, facebook, linkedin]
